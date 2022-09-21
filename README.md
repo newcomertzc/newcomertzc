@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @newcomertzc
-- 👀 I’m interested in meachine learning and deep learning
-- 🌱 I’m currently learning meachine learning
+- 👀 I’m interested in machine learning and deep learning
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me @ hideinshadow@gmail.com 
 
